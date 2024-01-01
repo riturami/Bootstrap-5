@@ -1,0 +1,25 @@
+
+.bg1{background-image: url('bsimage/2.jpg');background-size: cover;background-position: center;height: 700px;}
+.bg2{background-image: url('bsimage/recycled-shoe-store-shop-men-image-thumbnail.jpg');background-size: cover;background-position: center;height: 500px;}
+.bg3{background-image: url('bsimage/recycled-shoe-store-shop-women-image-tumbnail.jpg');background-size: cover;background-position: center;height: 500px;}
+.bg4{background-image: url('bsimage/recycled-shoe-store-cta-image-bg.jpg');background-size: cover;}
+
+
+
+.bgc{background-color: whitesmoke;}
+.bgc:hover{background-color: black;}
+
+.fgw{color: black;}
+.fgw:hover{color:whitesmoke;}
+
+.fgb{color: whitesmoke;}
+.fgb:hover{color: black;}
+
+.hide button{display: none;}
+.hide:hover button{display: block;}
+
+.br{
+    border: 3px dashed black;
+}
+
+.br1{border: 1px solid pink;}
