@@ -3,11 +3,39 @@
 .bg2{background-image: url('bsimage/recycled-shoe-store-shop-men-image-thumbnail.jpg');background-size: cover;background-position: center;height: 500px;}
 .bg3{background-image: url('bsimage/recycled-shoe-store-shop-women-image-tumbnail.jpg');background-size: cover;background-position: center;height: 500px;}
 .bg4{background-image: url('bsimage/recycled-shoe-store-cta-image-bg.jpg');background-size: cover;}
+.bg5{background-image: url('bsimage/recycled-shoe-product-image-005-600x600.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg5:hover{background-image: url('bsimage/recycled-shoe-product-image-005-600x600.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg6{background-image: url('bsimage/recycled-shoe-product-image-003-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg6:hover{background-image: url('bsimage/recycled-shoe-product-image-003-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg7{background-image: url('bsimage/recycled-shoe-product-image-006-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg7:hover{background-image: url('bsimage/recycled-shoe-product-image-006-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg8{background-image: url('bsimage/recycled-shoe-product-image-017-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg8:hover{background-image: url('bsimage/recycled-shoe-product-image-017-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg9{background-image: url('bsimage/recycled-shoe-product-image-007-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg9:hover{background-image: url('bsimage/recycled-shoe-product-image-007-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg10{background-image: url('bsimage/recycled-shoe-product-image-018-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg10:hover{background-image: url('bsimage/recycled-shoe-product-image-018-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg11{background-image: url('bsimage/recycled-shoe-product-image-001-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg11:hover{background-image: url('bsimage/recycled-shoe-product-image-001-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg12{background-image: url('bsimage/recycled-shoe-product-image-013-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg12:hover{background-image: url('bsimage/recycled-shoe-product-image-013-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+.bg13{background-image: url('bsimage/recycled-shoe-product-image-014-400x400.jpg');background-size: 100% 100%;background-position: center;height: 200px;background;}
+.bg13:hover{background-image: url('bsimage/recycled-shoe-product-image-014-400x400.jpg');background-size: 120% 120%;background-position: center;transition: 2s;}
+
+
+
+
 
 
 
 .bgc{background-color: whitesmoke;}
 .bgc:hover{background-color: black;}
+
+.bgg{background-color: darkolivegreen;}
+.bgg:hover{background-color: black;}
+
+.bco{background-color: whitesmoke;}
+.bco:hover{background-color: olive;}
 
 .fgw{color: black;}
 .fgw:hover{color:whitesmoke;}
@@ -22,4 +50,4 @@
     border: 3px dashed black;
 }
 
-.br1{border: 1px solid pink;}
+.br1{border: 1px solid whitesmoke}
