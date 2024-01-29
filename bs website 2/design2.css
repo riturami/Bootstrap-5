@@ -12,9 +12,15 @@
 .cbw:hover{background-color:black;}
 
 .cwb{color: black;}
-.cwb:hover{color:whitesmoke;}
+.cwb:hover{color:whitesmoke;transition: 3s;}
 
+.sha{box-shadow: 0px 0px 0px 0px;}
+.sha:hover{box-shadow: 5px 5px 0px 0px black;transition: 1s;}
 
+.bhw{background-color: rgba(0, 0, 0, 0);}
+.bhw:hover{background-color: #f92f57;transition:1s;}
+
+.bor:hover{border:dotted black;}
 
 
 
